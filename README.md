@@ -13,7 +13,7 @@ Contributing
 
 
 Demo
-Check out the live demo here (replace with your actual demo link).
+Check out the live demo here (https://github.com/KajalN22/React-TicTacToe).
 
 Features
 Interactive Gameplay: Users can play Tic-Tac-Toe against another player.
@@ -31,11 +31,11 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/TicTacToe-with-React.git
+git clone https://github.com/KajalN22/React-TicTacToe.git
 Navigate to the project directory:
 bash
 Copy code
-cd TicTacToe-with-React
+cd React-TicTacToe
 Install the necessary dependencies:
 bash
 Copy code
